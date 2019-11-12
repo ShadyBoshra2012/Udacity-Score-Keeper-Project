@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Udacity Score Keeper Project</string>
+    <string name="reset_btn">Reset scores</string>
+    <string name="team1_name">Pittsburgh Steelers</string>
+    <string name="team1_image_desc">Team 1 Logo</string>
+    <string name="team_init_value">0</string>
+    <string name="points_touchdown_btn">Touchdown (6pts)</string>
+    <string name="points_field_goal_btn">Field Goal (3pts)</string>
+    <string name="points_safety_btn">Safety (2pts)</string>
+    <string name="points_pass_btn">Pass (2pts)</string>
+    <string name="points_kick_btn">Kick (1pts)</string>
+    <string name="team2_name">Dallas Cowboys</string>
+    <string name="kicks_number_text">Kicks numbers:</string>
+</resources>

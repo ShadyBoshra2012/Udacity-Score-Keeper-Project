@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="team_image_size">50dp</dimen>
+    <dimen name="team_score_size">82sp</dimen>
+    <dimen name="btn_padding">8dp</dimen>
+    <dimen name="btn_margin">8dp</dimen>
+    <dimen name="team_name_size">28sp</dimen>
+    <dimen name="text_padding">8dp</dimen>
+    <dimen name="team_kicks_numbers_text_size">16sp</dimen>
+</resources>
